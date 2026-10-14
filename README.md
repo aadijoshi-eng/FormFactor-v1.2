@@ -1,6 +1,6 @@
 # FormFactor v1.2
 
-FormFactor v1.2 is a U.S. housing and community-planning tool created by Aadi Joshi. It compares apartments, townhomes, detached houses, mixed-use development, and master-planned communities across a bundled national dataset.
+FormFactor v1.2 is a U.S. housing and community-planning tool created by me. It compares apartments, townhomes, detached houses, mixed-use development, and master-planned communities across a bundled national dataset.
 
 The project is an educational screening model, not a property-search site or professional planning recommendation. It runs entirely in the browser and does not require an account, backend, API key, or live data service.
 
@@ -99,9 +99,7 @@ The Vite build uses relative asset paths and hash-based navigation, so it can be
 
 The deploy workflow builds the project and publishes the `dist` folder.
 
-## Before publishing
 
-Check the main navigation, Atlas state and county views, county search and ranking, all nine sliders, reset, scenarios, pinned comparisons, CSV downloads, shared links, local persistence, and mobile layout in a browser. Keep the developer console open while testing.
 
 ## Author
 
